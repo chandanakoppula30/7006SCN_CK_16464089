@@ -7,7 +7,7 @@
 | Student Name | Chandanakoppula |
 | Student ID | 16464089 |
 | Module Code | 7006SCN |
-| Repository | 7006SCN_C_16464089 |
+| Repository | 7006SCN_CK_16464089 |
 | Academic Year | 2025–2026 |
 | Assessment | Practical Coursework |
 | GitHub Organisation | 7006SCN2526MAYJUL |
@@ -197,13 +197,13 @@ Additional libraries may be imported depending on the task requirements.
 Clone the repository
 
 ```bash
-git clone https://github.com/7006SCN2526MAYJUL/7006SCN_C_16464089.git
+git clone https://github.com/chandanakoppula30/7006SCN_CK_16464089/edit/main/README.md
 ```
 
 Move into the repository
 
 ```bash
-cd 7006SCN_C_16464089
+cd 7006SCN_CK_16464089
 ```
 
 Launch Jupyter Notebook
